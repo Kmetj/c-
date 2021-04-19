@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library>
+  <Book>
+    <Name>hola</Name>
+    <Author>hop</Author>
+    <Borrowed />
+    <FirstName />
+    <lastName />
+    <From />
+  </Book>
+</Library>
